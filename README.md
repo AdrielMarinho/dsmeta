@@ -9,7 +9,7 @@ pode ser filtrada por data.
 
 ## Layout mobile / Layout tablet
 ![mobile 1](https://github.com/AdrielMarinho/assets/blob/main/Dsmeta-assets/Dsmeta-mobile1.png) 
-<img src="https://github.com/AdrielMarinho/assets/blob/main/Dsmeta-assets/Dsmeta-medium1.png" alt="Tablet" width="650" height="743" />
+<img src="https://github.com/AdrielMarinho/assets/blob/main/Dsmeta-assets/Dsmeta-medium1.png" alt="Tablet" width="630" height="743" />
 
 ## Layout web
 ![web](https://github.com/AdrielMarinho/assets/blob/main/Dsmeta-assets/Dsmeta-pc.png)
